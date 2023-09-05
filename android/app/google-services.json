@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1094068441754",
+    "project_id": "fyp-doctor-on-demnad",
+    "storage_bucket": "fyp-doctor-on-demnad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094068441754:android:bfde6b14f04e7f73424523",
+        "android_client_info": {
+          "package_name": "com.example.doctor_on_demand"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094068441754-ackg02usuij3hlip42ebhn9qb74ufvg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh0JOW546vW6aAAIRwyw2RJFfrYdnCbSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094068441754-ackg02usuij3hlip42ebhn9qb74ufvg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
